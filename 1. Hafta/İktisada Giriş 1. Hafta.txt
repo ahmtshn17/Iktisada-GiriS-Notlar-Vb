@@ -1,0 +1,88 @@
+İKTİSAT & EKONOMİ KELİMELERİNİN KÖKENİ?
+
+İktisat; Arapçada tam hedefe yönelme anlamına gelen kast sözcüğünden türetilmiş bir sözcük.
+
+Ekonomi : Yunanca'da ev anlamına gelen "oikos" ve yönetim anlamına gelen "nomos" kavramlarından oluşan 'Oikonomia'(Ev idaresi/yönetimi) kelimesinden türetilmiştir.
+
+----------------------------------------------------------------------------------------------------------
+
+İKTİSAT'IN KISACA TANIMI
+
+İktisat, bireylerin ve toplumların sahip oldukları sınırlı kaynaklarla, sınırsız ihtiyaçlarını karşılamak için, bu kaynakları ne şekilde dağıtılması gerektiğini inceleyen bir bilim dalıdır.
+
+----------------------------------------------------------------------------------------------------------
+
+NOT: İnsanların duyduğu mal ve hizmetlerin üretiminde kullanılan kaynakların yetersizliği, İktisat biliminde 'kıtlık' olarak adlandırılır.
+
+----------------------------------------------------------------------------------------------------------
+
+İKTİSAT BİLİMİNİN DALLARI
+
+İktisat bilimi çeşitli dallara ayrılmaktadır. Bunlardan bazıları aşağıdaki gibidir...
+
+1 - Mikro & Makro İktisat
+
+1.1 - Mikro İktisat
+
+Mikro iktisat veya aynı anlamda mikro ekonomi, tüketicilerin ve firmaların ekonomik davranışlarını; ihtiyaç, fayda, değer, fiyat kavramları ile araştıran iktisat dalıdır. Piyasa türlerini, piyasaların işleyiş mekanizmasını ve farklı piyasa koşullarında firma dengesinin nasıl oluştuğunu da araştırır. 
+
+1.2 - Makro İktisat
+
+Mikro İktisatMakro iktisat/ekonomi ise, ülke ve dünya ekonomisini ilgilendiren konu başlıklarını inceleyen bir iktisat dalıdır. Örneğin toplam tüketim, toplam üretim, toplam tasarruf, istihdam, işsizlik enflasyon büyüme ve dış ticaret gibi vs.
+
+
+2 - Normatif & Pozitif İktisat
+
+2.1 - Normatif İktisat
+
+Normatif iktisat, bir durumu hedef olarak gören, ekonomik düzenin nasıl olması gerektiğine dair fikirler üreten,  belirlenen hedefler için neler yapılması gerektiğini araştıran bir iktisat dalıdır. Örneğin 'enflasyon oranının düzeyi  ne olmalı?' gibi.
+
+Kısacası ülkenin refahı için neler yapılması gerektiğini araştırır.
+
+2.2 - Pozitif İktisat
+
+Sadece ekonomik düzeni, sebep-sonuç ilişkisi içinde inceleyen, ekonomi içinde sürekli geçerli kanunları saptamaya çalışan iktisat dalıdır. Örneğin 'Talep artışı enflasyonu nasıl etkiler?' şeklindeki bir yaklaşım, pozitif iktisadın bir açılımıdır.
+
+//Şahsi Yorumum : Anladığım kadarı ile, Normatif iktisat içerisinde 'enflasyon oranının düzeyi  ne olmalı?' gibi daha radikal(köklü) kararlar alınmasına yardımcı fikirler üretilirken, Pozitif iktisatta ise bu radikal kararların alt başlıkları, yani ilgili kararı/düşünceyi etkileyecek yahut şekillendirecek, yardımcı fikir, radikal kararı etkileyecek metot, tahmin gibi düşünceler ele alınabilir.
+
+----------------------------------------------------------------------------------------------------------
+
+İKTİSADİ KARAR BİRİMLERİ(Karar Alıcılar)(Aktörler)
+
+1 - Hanehalkı
+
+Bir ekonomide ailelerden oluşan iktisadi karar birimi 'hanehalkı' olarak adlandırılmaktadır. Hane halkı içerisinde yer alan aile üyelerine 'tüketici' denir.
+
+Not: Tüketici gerçek veya tüzel kişi olabilir. Ticari emellerle mal satın alanlar tüketici değildir! Şirketler, nihai kullanım amacıyla gıda, kırtasiye vb. mal ve hizmetleri satın almaları halinde tüketici olarak ele alınırlar.
+
+2 - Firmalar
+
+Üretim faktörlerini kullanarak, tüketicilerin ihtiyaç duyduğu mal ve hizmetleri üreten özel veya tüzel kişiliğe sahip iktisadi karar birimlerine 'firma' denir.
+
+Firmalar bir piyasada hem üretici hem de tüketici olarak faaliyet göstermektedirler.
+
+Not: 'Marjinal Fayda' bir ürünün tüketilmesi sonucunda her birimden alınan faydadır.
+
+Not: 'Marjinal Maliyet', temelde üretim sırasında ortaya çıkan bir birimlik değişimin toplam harcanan değere olan etkisi şeklinde tanımlanır.
+
+Mülkiyeti kamuya ait olan firmaların nihai amacı toplumsal açıdan marjinal sosyal fayda, marjinal sosyal maliyet eşitliğinin sağlanması iken, mülkiyeti özel sektöre ait olan firmaların nihai amacı karlarını maksimize etmektir.
+
+3 - Devlet
+
+Devlet İktisat biliminde, bir ekonomide faaliyet gösteren bütün kamu kurum ve kuruluşları temsil etmektedir. Aynı zamanda iktisadi bir karar birimi olarak nitelendirilen devlet, sahip olduğu yasama ve yürütme güçlerine de bağlı olarak piyasaları denetlemekte ve düzenlemektedir.
+
+Devlet kendine ait olan firmalar tarafından mal ve hizmet üretimi yapabilmektedir. Ayrıca özel firmalardan satın alma yaparakta, tüketici olabilmekte.
+
+----------------------------------------------------------------------------------------------------------
+
+CETERİS PARİBUS
+
+Ceteris Paribus(Seteris Paribus), 'diğer tüm faktörler sabitken' anlamına gelmekle birlkikte, latince kökenli bir kavramdır.
+
+Ceteris Paribus, bir iktisadi karar biriminin diğer bir karar üzerindeki etkisini analiz ederken, diğer faktörleri analizden soyutlamak amacıyla kullanılan bir varsayımdır. Örneğin zevk ve tercihler, moda, tüketici geliri vb. faktörleri göz önünde bulundurulmadan, fiyatın daha kolay/anlaşılır analiz edilmesi, ilgili varsayımla mümkün olur.
+
+Not: Mutatis mutandis kavramını hocamız derste anlatmadığı için şu anda bu başlık altında değinmiyorum. ilgilisi 'İktisada Giriş-Orhan Çoban' kitabında sayfa 9 da bulabilir. 
+
+----------------------------------------------------------------------------------------------------------
+
+Not: Hocamız 1. hafta da sadece bu kadar anlattığı için, devam eden konulara diğer not bütününde değineceğim.
